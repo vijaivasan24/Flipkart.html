@@ -16,3 +16,6 @@ This project is intended for educational purposes only and is not affiliated wit
 
 ❤️ Acknowledgements
 Thanks to Flipkart for inspiring this project and offering a great platform to learn from!
+
+To use the website use the given link below 👇
+https://vijaivasan24.github.io/html-Flipkart/Flipkart.html
